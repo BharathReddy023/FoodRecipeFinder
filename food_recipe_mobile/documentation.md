@@ -14,6 +14,10 @@ Android Studio (for Android development) or Xcode (for iOS development): Install
 
 ## Project Setup
 
+
+To clone the Repository:
+git@github.com:BharathReddy023/FoodRecipeMobile.git
+
 Create a New React Native Project:
 
 npx create-expo-app food_recipe_mobile
