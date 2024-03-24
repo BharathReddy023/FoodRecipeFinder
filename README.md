@@ -18,9 +18,9 @@ Android Studio (for Android development) or Xcode (for iOS development): Install
 
 
 To clone the Repository:
-git@github.com:BharathReddy023/FoodRecipeMobile.git
+git@github.com:BharathReddy023/FoodRecipeFinder.git
 
-Create a New React Native Project:
+Create a New React Native Project:(for creating new project)
 
 npx create-expo-app food_recipe_mobile
 
@@ -105,9 +105,10 @@ Testing: Jest and React Testing Library for unit and integration testing.
 To set up the Food Recipe Application locally, follow these steps:
 
 Clone the project repository from GitHub.
-
+git@github.com:BharathReddy023/FoodRecipeFinder.git
 
 Navigate to the project directory in your terminal.
+cd food_recipe_web
 Install project dependencies using npm install.
 Start the development server using npm start.
 Access the application in your web browser at http://localhost:3000/
