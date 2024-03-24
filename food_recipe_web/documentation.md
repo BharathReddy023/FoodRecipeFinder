@@ -36,6 +36,7 @@ Testing: Jest and React Testing Library for unit and integration testing.
 To set up the Food Recipe Application locally, follow these steps:
 
 Clone the project repository from GitHub.
+git@github.com:BharathReddy023/FoodRecipeFinder.git
 
 Navigate to the project directory in your terminal.
 Install project dependencies using npm install.
